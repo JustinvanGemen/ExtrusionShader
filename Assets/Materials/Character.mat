@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: fat
+  m_Name: Character
   m_Shader: {fileID: 4800000, guid: 27385f9bbdc446f42badad78a1656a42, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4

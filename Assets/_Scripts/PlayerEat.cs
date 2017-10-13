@@ -18,7 +18,7 @@ public class PlayerEat : MonoBehaviour {
 	{
 		if(!other.CompareTag("Edible")) return;
 		Debug.Log("Eating" + _ext);
-		_ext = _ext +0.05f;
+		_ext = _ext +0.02f;
 		_renderer.material.SetFloat("_Amount", _ext);
 		_tempFood = other.gameObject;
 		StartCoroutine ("Eat");
@@ -32,7 +32,7 @@ public class PlayerEat : MonoBehaviour {
 	private IEnumerator Weightloss()
 	{
 		Debug.Log("Weightloss" + _ext);
-		_ext = _ext - 0.002f;
+		_ext = _ext - 0.0015f;
 		_renderer.material.SetFloat("_Amount", _ext);
 		yield return new WaitForSeconds(2f);
 		StartCoroutine("Weightloss");
