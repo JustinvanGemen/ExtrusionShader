@@ -2,46 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="665b796c-d5d4-4b3f-b9fe-70ef981b3075" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Cake.FBX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Cake.FBX.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Donuts.FBX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Donuts.FBX.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/HamEgg.FBX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/HamEgg.FBX.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Cake.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Cake.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Donuts.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Donuts.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Hamegg.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Hamegg.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Milk.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Milk.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Waffle.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Materials/Waffle.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Milk.FBX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Milk.FBX.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Cake.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Donuts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Donuts.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Hamegg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Hamegg.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Milk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Milk.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Waffle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Texture/Waffle.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Waffle.FBX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/FBX/Waffle.FBX.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/Cake.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/Cake.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/Donuts.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/Donuts.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/HamEgg.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/HamEgg.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/Milk.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/Milk.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/Waffle.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Art/ETC/3D Bakery Object/Prefab/Waffle.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials/fat.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials/fat.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/_Shaders/Fat.shader" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/_Shaders/Fat.shader.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.ExtrusionShader/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ExtrusionShader/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/_Scripts/PlayerEat.cs" afterPath="$PROJECT_DIR$/Assets/_Scripts/PlayerEat.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/main.unity" afterPath="$PROJECT_DIR$/Assets/main.unity" />
     </list>
@@ -58,30 +23,15 @@
       <file leaf-file-name="PlayerEat.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerEat.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="540">
+              <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
               <folding>
-                <marker date="1507896245125" expanded="true" signature="6:44" ph="..." />
-                <marker date="1507896245125" expanded="true" signature="85:841" ph="{...}" />
-                <marker date="1507896245125" expanded="true" signature="214:292" ph="{...}" />
-                <marker date="1507896245125" expanded="true" signature="338:544" ph="{...}" />
-                <marker date="1507896245125" expanded="true" signature="571:621" ph="{...}" />
-                <marker date="1507896245125" expanded="true" signature="656:839" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fat.shader" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/_Shaders/Fat.shader">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-              <folding>
-                <marker date="1507725710204" expanded="true" signature="38:643" ph="{...}" />
-                <marker date="1507725710204" expanded="true" signature="55:160" ph="{...}" />
-                <marker date="1507725710204" expanded="true" signature="175:615" ph="{...}" />
-                <marker date="1507725710204" expanded="true" signature="231:604" ph="{...}" />
+                <marker date="1507902405559" expanded="false" signature="6:44" ph="..." />
+                <marker date="1507902405559" expanded="true" signature="85:842" ph="{...}" />
+                <marker date="1507902405559" expanded="true" signature="214:292" ph="{...}" />
+                <marker date="1507902405559" expanded="true" signature="338:544" ph="{...}" />
+                <marker date="1507902405559" expanded="true" signature="571:621" ph="{...}" />
+                <marker date="1507902405559" expanded="true" signature="656:840" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -94,7 +44,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerEat.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Shaders/Fat.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -201,12 +150,13 @@
       <workItem from="1507802417281" duration="871000" />
       <workItem from="1507810360016" duration="45000" />
       <workItem from="1507886699740" duration="1146000" />
-      <workItem from="1507888775299" duration="4432000" />
+      <workItem from="1507888775299" duration="5677000" />
+      <workItem from="1507902249893" duration="678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6494000" />
+    <option name="totallyTimeSpent" value="8417000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,12 +211,35 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507896245125" expanded="true" signature="6:44" ph="..." />
-            <marker date="1507896245125" expanded="true" signature="85:841" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="214:292" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="338:544" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="571:621" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="656:839" ph="{...}" />
+            <marker date="1507902405559" expanded="false" signature="6:44" ph="..." />
+            <marker date="1507902405559" expanded="true" signature="85:842" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="214:292" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="338:544" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="571:621" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="656:840" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Shaders/Fat.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerEat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507902405559" expanded="false" signature="6:44" ph="..." />
+            <marker date="1507902405559" expanded="true" signature="85:842" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="214:292" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="338:544" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="571:621" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="656:840" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -275,11 +248,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="57" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerEat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507725710204" expanded="true" signature="38:643" ph="{...}" />
-            <marker date="1507725710204" expanded="true" signature="55:160" ph="{...}" />
-            <marker date="1507725710204" expanded="true" signature="175:615" ph="{...}" />
-            <marker date="1507725710204" expanded="true" signature="231:604" ph="{...}" />
+            <marker date="1507902405559" expanded="false" signature="6:44" ph="..." />
+            <marker date="1507902405559" expanded="true" signature="85:842" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="214:292" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="338:544" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="571:621" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="656:840" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -289,27 +272,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507896245125" expanded="true" signature="6:44" ph="..." />
-            <marker date="1507896245125" expanded="true" signature="85:841" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="214:292" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="338:544" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="571:621" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="656:839" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerEat.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507896245125" expanded="true" signature="6:44" ph="..." />
-            <marker date="1507896245125" expanded="true" signature="85:841" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="214:292" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="338:544" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="571:621" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="656:839" ph="{...}" />
+            <marker date="1507902405559" expanded="false" signature="6:44" ph="..." />
+            <marker date="1507902405559" expanded="true" signature="85:842" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="214:292" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="338:544" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="571:621" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="656:840" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -317,27 +285,22 @@
     <entry file="file://$PROJECT_DIR$/Assets/_Shaders/Fat.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding>
-            <marker date="1507725710204" expanded="true" signature="38:643" ph="{...}" />
-            <marker date="1507725710204" expanded="true" signature="55:160" ph="{...}" />
-            <marker date="1507725710204" expanded="true" signature="175:615" ph="{...}" />
-            <marker date="1507725710204" expanded="true" signature="231:604" ph="{...}" />
-          </folding>
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerEat.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="540">
+          <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
           <folding>
-            <marker date="1507896245125" expanded="true" signature="6:44" ph="..." />
-            <marker date="1507896245125" expanded="true" signature="85:841" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="214:292" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="338:544" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="571:621" ph="{...}" />
-            <marker date="1507896245125" expanded="true" signature="656:839" ph="{...}" />
+            <marker date="1507902405559" expanded="false" signature="6:44" ph="..." />
+            <marker date="1507902405559" expanded="true" signature="85:842" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="214:292" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="338:544" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="571:621" ph="{...}" />
+            <marker date="1507902405559" expanded="true" signature="656:840" ph="{...}" />
           </folding>
         </state>
       </provider>
